@@ -39,4 +39,4 @@
 
 ![alt text](/img/view.png)
 
-[![Foo](/img/s4.png)](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/Step4.md) 
+[![Foo](/img/s4.png)](/Step4.md) 

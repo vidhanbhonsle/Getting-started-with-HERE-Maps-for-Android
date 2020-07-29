@@ -13,4 +13,4 @@
 
 ![alt text](/img/extracted-ex.png)
 
-[![Foo](/img/s3.png)](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/Step3.md) 
+[![Foo](/img/s3.png)](/Step3.md) 
