@@ -2,7 +2,7 @@
 
 - Navigate to .aar file in the extracted folder and copy it
 
-<img src="/img/extracted-folder.png" width="500"/>
+<img src="/img/extracted-folder.png" width="500" height="300"/>
 
 - Extract the examples folder
 
