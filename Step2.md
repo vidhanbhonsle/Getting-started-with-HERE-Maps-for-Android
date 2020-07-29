@@ -2,7 +2,7 @@
 
 - Navigate to .aar file in the extracted folder and copy it
 
-![alt text](/img/extracted-folder.png = 250x250)
+![alt text](/img/extracted-folder.png = 100x100)
 
 - Extract the examples folder
 
