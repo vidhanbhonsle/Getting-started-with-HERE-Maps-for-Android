@@ -6,7 +6,7 @@
 
 - Extract the examples folder
 
-![alt text](/img/extract-ex.png)
+<img src="/img/extract-ex.png" width="700" height="600"/>
 
 - Paste copied .aar file in the libs folder of HelloMap example
     - \heresdk-explore-android-4.4.2.0.2491\HelloMap\app\libs
