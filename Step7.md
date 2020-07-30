@@ -58,5 +58,5 @@
 
 <img src="/img/pizzadetails.png" width="348" height="750"/>
 
-[![Foo](/img/next.png)](/Step8.md)
+[![Foo](/img/next.png)](/final.md)
 
