@@ -39,4 +39,4 @@ An Android application which shows an interactive map.
 
 - Create a folder 'android workshop' and extract the downloaded file in the folder
 
-[![Foo](/img/Next.png)](/Step2.md) 
+[![Foo](/img/next.png)](/Step2.md) 
