@@ -24,18 +24,10 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
         <Button
-            android:layout_width="0dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:text="Search"
             android:onClick="searchExampleButtonClicked" />
-
-        <Button
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Routing"
-            android:onClick="routingButtonClicked" />
     </LinearLayout>
 ```
 5. Run app to see the changes
