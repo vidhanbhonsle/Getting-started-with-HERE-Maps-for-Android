@@ -1,4 +1,4 @@
-## Step 7 : Show detials on clicking the pizza icons
+## Step 7 : Show details on clicking the pizza icons
 
 
 1. Add a method 'setTapGestureHandler' in the SearchExample constructor
