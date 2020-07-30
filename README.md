@@ -19,7 +19,7 @@ An Android application which shows an interactive map.
 #### Step 3 : Load example, enter credentials, build and run
 #### Step 4 : Add an icon to the Map and edit layout
 #### Step 5 : Edit MainActivity.java, create a new class SearchExample and work on Button
-#### Step 6 : 
+#### Step 6 : Add marker to the locations and enable tap gesture
 #### End    : Final Code and Resources
 
 ### Lets begin!

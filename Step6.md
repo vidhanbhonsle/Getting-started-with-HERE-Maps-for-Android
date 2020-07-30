@@ -1,16 +1,24 @@
-## Step 6 : Edit MainActivity.java, create a new class SearchExample and work on Button 
+## Step 6 : Add marker to the locations and enable tap gesture
 
 
-1. Add new variables to MainActivity,java and create new class (SearchExample)
+1. In SearchExample.java, add 'addPoiMapMarker' method after Log.d("DATA",address); and before '}'
 ```java
-    private SearchExample searchExample;
-    String data = "pizza";
-    double latitude = 12.959111;
-    double longitude = 77.732022;
+    addPoiMapMarker(searchResult.getCoordinates(), metadata);
 ```
-2. In MainActivity.java, in the if statement of loadMapScene() add following code:
+2. Creating addPoiMapMarker method and assigning markers
+Inside drawable folder, put the [Pizza Icon](/img/pizzaicon.png) image
 ```java
-    searchExample = new SearchExample(MainActivity.this,mapView,data,latitude,longitude);
+        private void addPoiMapMarker(GeoCoordinates coordinates, Metadata metadata) {
+        MapMarker mapMarker = createPoiMapMarker(coordinates);
+        mapMarker.setMetadata(metadata);
+        mapView.getMapScene().addMapMarker(mapMarker);
+        mapMarkerList.add(mapMarker);
+    }
+
+    private MapMarker createPoiMapMarker(GeoCoordinates coordinates) {
+        MapImage mapImage = MapImageFactory.fromResource(context.getResources(), R.drawable.pizzaicon);
+        return new MapMarker(coordinates, mapImage, new Anchor2D(0.5F, 1));
+    }
 ```
 You will be prompted to create a constructor in SearchExample.java.
 
