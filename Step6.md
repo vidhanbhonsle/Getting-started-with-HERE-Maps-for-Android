@@ -6,7 +6,7 @@
     addPoiMapMarker(searchResult.getCoordinates(), metadata);
 ```
 2. Creating addPoiMapMarker method and assigning markers
-Inside drawable folder, put the [Pizza Icon](/img/pizzaicon.png) image
+- Inside drawable folder, put the [Pizza Icon](/img/pizzaicon.png) image
 ```java
         private void addPoiMapMarker(GeoCoordinates coordinates, Metadata metadata) {
         MapMarker mapMarker = createPoiMapMarker(coordinates);
