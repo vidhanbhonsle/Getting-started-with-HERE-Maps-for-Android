@@ -3,7 +3,7 @@
 
 1. Add new variables to MainActivity,java and create new class (SearchExample)
 ```java
-   private SearchExample searchExample;
+    private SearchExample searchExample;
     String data = "pizza";
     double latitude = 12.959111;
     double longitude = 77.732022;
