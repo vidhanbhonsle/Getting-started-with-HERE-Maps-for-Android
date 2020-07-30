@@ -1,7 +1,7 @@
 ## Step 5 : Edit MainActivity.java, create a new class SearchExample and work on Button 
 
 
-1. Add new variables to MainActivity,java and create new class (SearchExample)
+1. Add new variables to MainActivity,java and create a new class (SearchExample)
 ```java
     private SearchExample searchExample;
     String data = "pizza";
@@ -9,6 +9,7 @@
     double longitude = 77.732022;
 ```
 Replace hardcoded latitude and longitude value inside the code with above defined variables.
+
 2. In MainActivity.java, in the if statement of loadMapScene() add following code:
 ```java
     searchExample = new SearchExample(MainActivity.this,mapView,data,latitude,longitude);
