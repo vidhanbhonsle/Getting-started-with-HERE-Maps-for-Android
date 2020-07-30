@@ -3,7 +3,7 @@
 ### Load Example
 - Start Android Studio and select 'Open an exisiting Android Studio project'
 
-<img src="/img/androidstudio.png" width="1600" height="900"/>
+<img src="/img/androidstudio.png" width="1429" height="900"/>
 
 - Navigate to HelloMap example and click 'OK'
 
