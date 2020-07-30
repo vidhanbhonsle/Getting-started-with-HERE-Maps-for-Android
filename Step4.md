@@ -16,8 +16,31 @@
 
 <img src="/img/marker.png" width="348" height="750"/>
 
-4. Open 
+4. Open app/res/layout/activity_main.xml and before </android.support.constraint.ConstraintLayout>, add following -
 
+```xml
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Search"
+            android:onClick="searchExampleButtonClicked" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Routing"
+            android:onClick="routingButtonClicked" />
+    </LinearLayout>
+```
+5. Run app to see the changes
+
+<img src="/img/layout.png" width="348" height="750"/>
 
 [![Foo](/img/next.png)](/Step5.md)
 
