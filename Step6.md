@@ -7,6 +7,7 @@
 ```
 2. Creating addPoiMapMarker method and assigning markers
     - Inside drawable folder, put the [Pizza Icon](/img/pizzaicon.png) image
+    - Add following line at the top - private final List<MapMarker> mapMarkerList = new ArrayList<>();
 ```java
         private void addPoiMapMarker(GeoCoordinates coordinates, Metadata metadata) {
         MapMarker mapMarker = createPoiMapMarker(coordinates);
@@ -20,30 +21,10 @@
         return new MapMarker(coordinates, mapImage, new Anchor2D(0.5F, 1));
     }
 ```
-You will be prompted to create a constructor in SearchExample.java.
+3. Run the code and press "SEARCH" button
 
-3. Create variables and initialise them inside constructor
-```java
-   public class SearchExample {
+<img src="/img/pizzas.png" width="348" height="750"/>
 
-    private final MapView mapView;
-    private String data;
-    private double latitude;
-    private double longitude;
-    private MainActivity mainActivity;
-    private final Context context;
-
-    public SearchExample(Context context, MapView mapView, String data, double latitude, double longitude) {
-
-        this.mainActivity = mainActivity;
-        this.mapView = mapView;
-        this.data = data;
-        this.latitude = latitude;
-        this.longitude = longitude;
-        this.context = context;
-    }
-}
-```
 4. Define SearchEngine class variable and initialise it inside try-catch block
 ```java
 public class SearchExample {
