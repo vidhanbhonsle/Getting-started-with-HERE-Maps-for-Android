@@ -7,7 +7,7 @@
 
 - Navigate to HelloMap example and click 'OK'
 
-![alt text](/img/hellomap.png)
+<img src="/img/hellomap.png" width="527" height="600"/>
 
 ### Enter Credentials
 - Open AndroidManifest.xml file in Android Studio
