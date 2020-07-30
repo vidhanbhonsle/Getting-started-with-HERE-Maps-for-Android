@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this workshop we will learn how to create an Android Application to show an interactive map with different feature with HERE SDK for Android Explore Edition.
+In this workshop we will learn how to create an Android Application to show an interactive map with HERE SDK for Android Explore Edition.
 
 ## Prerequisites
 - [Freemium Account](https://developer.here.com/events/community-sa) to acquire HERE SDK for Andorid Explore Edition. 
