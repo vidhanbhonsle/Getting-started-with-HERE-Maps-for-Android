@@ -20,7 +20,7 @@ An Android application which shows an interactive map.
 #### Step 4 : Add an icon to the Map and edit layout
 #### Step 5 : Edit MainActivity.java, create a new class SearchExample and work on Button
 #### Step 6 : Add marker to the locations
-#### Step 7 : Show detials on clicking the pizza icons
+#### Step 7 : Show details on clicking the pizza icons
 #### End    : Final Code and Resources
 
 ### Lets begin!
