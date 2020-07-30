@@ -1,7 +1,7 @@
 # The complete code files -
-- MainActivity.java 
-- SearchExample.java
-- main_activity.xml
+- [MainActivity.java](/codes/MainActivity.java) 
+- [SearchExample.java](/codes/SearchExample.java)
+- [main_activity.xml](/codes/main_activity.xml)
 
 # Contact Information
 [![Foo](https://www.gettingstamped.com/wp-content/uploads/2015/02/Twitter-Logo.png)](https://twitter.com/heredev) 
