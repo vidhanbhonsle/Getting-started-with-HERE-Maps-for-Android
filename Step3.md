@@ -37,6 +37,6 @@
 - Your app will load on the phone emulator.
 - Allow the permissions that the app needs.
 
-![alt text](/img/view.png)
+<img src="/img/view.png" width="348" height="750"/>
 
 [![Foo](/img/next.png)](/Step4.md) 
