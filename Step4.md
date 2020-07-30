@@ -16,7 +16,7 @@
 
 <img src="/img/marker.png" width="348" height="750"/>
 
-4. Open app/res/layout/activity_main.xml and before </android.support.constraint.ConstraintLayout>, add following -
+4. Open app/res/layout/activity_main.xml and before "</android.support.constraint.ConstraintLayout>", add following code -
 
 ```xml
     <LinearLayout
