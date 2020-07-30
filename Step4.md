@@ -1,8 +1,8 @@
 ## Step 4 : Add an icon to the Map
 
-1. Inside drawable folder, put the [home](https://github.com/vidhanbhonsle/Android-workshop-with-HERE-SDK/blob/master/img/home.png) image
+1. Inside drawable folder, put the [home](/img/home.png) image
 
-![alt text](/img/drawable.png)
+<img src="/img/drawable.png" width="286" height="700"/>
 
 2. In MainActivity.java file, between 'handleAndroidPermissions();' and '}' add following code:
 
