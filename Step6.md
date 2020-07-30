@@ -7,7 +7,8 @@
 ```
 2. Creating addPoiMapMarker method and assigning markers
     - Inside drawable folder, put the [Pizza Icon](/img/pizzaicon.png) image
-    - Add following line at the top - private final List<MapMarker> mapMarkerList = new ArrayList<>();
+    - Add following line at the top 
+        - private final List<MapMarker> mapMarkerList = new ArrayList<>();
 ```java
         private void addPoiMapMarker(GeoCoordinates coordinates, Metadata metadata) {
         MapMarker mapMarker = createPoiMapMarker(coordinates);
