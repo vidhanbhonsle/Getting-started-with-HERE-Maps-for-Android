@@ -39,4 +39,4 @@
 
 ![alt text](/img/view.png)
 
-[![Foo](/img/s4.png)](/Step4.md) 
+[![Foo](/img/next.png)](/Step4.md) 

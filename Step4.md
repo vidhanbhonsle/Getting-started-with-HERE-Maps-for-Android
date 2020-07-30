@@ -17,5 +17,5 @@
 ![alt text](/img/marker.png)
 
 
-[![Foo](/img/s5.png)](/Step6.md)
+[![Foo](/img/next.png)](/Step6.md)
 

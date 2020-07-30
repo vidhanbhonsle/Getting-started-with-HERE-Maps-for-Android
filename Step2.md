@@ -13,4 +13,4 @@
 
 <img src="/img/extracted-ex.png" width="700" height="620"/>
 
-[![Foo](/img/s3.png)](/Step3.md) 
+[![Foo](/img/next.png)](/Step3.md) 
