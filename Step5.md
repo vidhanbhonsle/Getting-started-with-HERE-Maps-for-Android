@@ -1,4 +1,4 @@
-## Step 4 : Add an icon to the Map and edit layout
+## Step 5 : Edit MainActivity.java, create a new class SearchEngine and a constructor 
 
 1. Inside drawable folder, put the [home](/img/home.png) image
 
@@ -14,10 +14,8 @@
 ```
 3. Run app to see the change
 
-<img src="/img/marker.png" width="348" height="750"/>
-
-4. Open 
+![alt text](/img/marker.png)
 
 
-[![Foo](/img/next.png)](/Step5.md)
+[![Foo](/img/next.png)](/Step6.md)
 
