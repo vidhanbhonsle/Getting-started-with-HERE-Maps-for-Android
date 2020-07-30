@@ -1,4 +1,4 @@
-## Step 5 : Edit MainActivity.java, create a new class and a constructor 
+## Step 5 : Edit MainActivity.java, create a new class SearchExample and work on Button 
 
 
 1. Add new variables to MainActivity,java and create new class (SearchExample)
@@ -36,7 +36,7 @@ You will be prompted to create a constructor in SearchExample.java.
     }
 }
 ```
-4. Define SearchEngine class variable and initialise it in try-catch block
+4. Define SearchEngine class variable and initialise it inside try-catch block
 ```java
 public class SearchExample {
 
